@@ -1,0 +1,138 @@
+[
+    {
+        "id": "5",
+        "name": "Bali"
+    },
+    {
+        "id": "10",
+        "name": "Banten"
+    },
+    {
+        "id": "15",
+        "name": "Bengkulu"
+    },
+    {
+        "id": "20",
+        "name": "DI Yogyakarta"
+    },
+    {
+        "id": "25",
+        "name": "DKI Jakarta"
+    },
+    {
+        "id": "30",
+        "name": "Gorontalo"
+    },
+    {
+        "id": "35",
+        "name": "Jambi"
+    },
+    {
+        "id": "40",
+        "name": "Jawa Barat"
+    },
+    {
+        "id": "45",
+        "name": "Jawa Tengah"
+    },
+    {
+        "id": "50",
+        "name": "Jawa Timur"
+    },
+    {
+        "id": "55",
+        "name": "Kalimantan Barat"
+    },
+    {
+        "id": "60",
+        "name": "Kalimantan Selatan"
+    },
+    {
+        "id": "65",
+        "name": "Kalimantan Tengah"
+    },
+    {
+        "id": "70",
+        "name": "Kalimantan Timur"
+    },
+    {
+        "id": "75",
+        "name": "Kalimantan Utara"
+    },
+    {
+        "id": "80",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    {
+        "id": "85",
+        "name": "Kepulauan Riau"
+    },
+    {
+        "id": "90",
+        "name": "Lampung"
+    },
+    {
+        "id": "95",
+        "name": "Maluku"
+    },
+    {
+        "id": "100",
+        "name": "Maluku Utara"
+    },
+    {
+        "id": "105",
+        "name": "Nusa Tenggara Barat (NTB)"
+    },
+    {
+        "id": "110",
+        "name": "Nusa Tenggara Timur (NTT)"
+    },
+    {
+        "id": "115",
+        "name": "Papua"
+    },
+    {
+        "id": "120",
+        "name": "Papua Barat"
+    },
+    {
+        "id": "125",
+        "name": "Riau"
+    },
+    {
+        "id": "130",
+        "name": "Sulawesi Barat"
+    },
+    {
+        "id": "135",
+        "name": "Sulawesi Selatan"
+    },
+    {
+        "id": "140",
+        "name": "Sulawesi Tengah"
+    },
+    {
+        "id": "145",
+        "name": "Sulawesi Tenggara"
+    },
+    {
+        "id": "150",
+        "name": "Sulawesi Utara"
+    },
+    {
+        "id": "155",
+        "name": "Sumatera Barat"
+    },
+    {
+        "id": "160",
+        "name": "Sumatera Selatan"
+    },
+    {
+        "id": "165",
+        "name": "Sumatera Utara"
+    },
+    {
+        "id": "170",
+        "name": "Jumlah Total"
+    }
+]

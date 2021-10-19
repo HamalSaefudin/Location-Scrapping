@@ -1,0 +1,23 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamalSaefudin/Location-Scrapping.git"
+  },
+  "author": "Hamal Saefudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamalSaefudin/Location-Scrapping/issues"
+  },
+  "homepage": "https://github.com/HamalSaefudin/Location-Scrapping#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^10.4.0"
+  }
+}
