@@ -15,9 +15,9 @@ const fs = require('fs');
             const blackList = ['Daftar Provinsi + range Kode POS',
             'Daftar Kota - Kabupaten + range Kode POS',
             'Daftar Kecamatan',
-            'Daftar Desa - Kelurahan + Kode POS']
+            'Daftar Desa - Kelurahan + Kode POS','Jumlah Total']
 
-            if(isNaN(notTitle)&&i){
+            if(isNaN(notTitle)){
                 if(!blackList.includes(x.innerText)){
                     listLocation.push({id:i.toString(),name:x.innerText})
                 }

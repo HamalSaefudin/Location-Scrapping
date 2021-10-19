@@ -1,0 +1,42 @@
+[
+    {
+        "id": "51.03",
+        "name": "Bangli",
+        "province": "Bali"
+    },
+    {
+        "id": "51.06",
+        "name": "Buleleng",
+        "province": "Bali"
+    },
+    {
+        "id": "51.08",
+        "name": "Denpasar",
+        "province": "Bali"
+    },
+    {
+        "id": "51.71",
+        "name": "Gianyar",
+        "province": "Bali"
+    },
+    {
+        "id": "51.04",
+        "name": "Jembrana",
+        "province": "Bali"
+    },
+    {
+        "id": "51.01",
+        "name": "Karangasem",
+        "province": "Bali"
+    },
+    {
+        "id": "51.07",
+        "name": "Klungkung",
+        "province": "Bali"
+    },
+    {
+        "id": "51.05",
+        "name": "Tabanan",
+        "province": "Bali"
+    }
+]

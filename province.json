@@ -1,5 +1,9 @@
 [
     {
+        "id": "0",
+        "name": "Aceh (NAD)"
+    },
+    {
         "id": "5",
         "name": "Bali"
     },
@@ -130,9 +134,5 @@
     {
         "id": "165",
         "name": "Sumatera Utara"
-    },
-    {
-        "id": "170",
-        "name": "Jumlah Total"
     }
 ]
